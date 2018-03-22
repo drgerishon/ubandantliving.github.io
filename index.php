@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
 <?php
 /**
  * The main template file.
@@ -53,3 +57,7 @@ if ( ! get_theme_mod( 'hide_sidebar_index' ) ) {
 }
 ?>
 <?php get_footer(); ?>
+</head>
+<body>
+</body>
+</html>
